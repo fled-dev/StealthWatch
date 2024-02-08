@@ -13,4 +13,4 @@ StealthWatch offers a wide range of features designed for meticulous device moni
 
 
 ## Ethical and Legal Considerations
-StealthWatch is designed for legitimate use cases such as parental control, device security, and authorized monitoring. Users are responsible for ensuring that their use of StealthWatch complies with all applicable laws and regulations. Unauthorized or malicious use of StealthWatch is strictly prohibited
+StealthWatch is designed for legitimate use cases. Users are responsible for ensuring that their use of StealthWatch complies with all applicable laws and regulations. Unauthorized or malicious use of StealthWatch is strictly prohibited
